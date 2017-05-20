@@ -6,7 +6,7 @@
  cd frameworks/native 
  patch -p1 < ../../device/xiaomi/nikel/patches/frameworks_native.patch
  cd ../..
- cd exte*/sepolicy
+ cd system/sepolicy
  patch -p1 < ../../device/xiaomi/nikel/patches/system_sepolicy.patch
  cd ../..
  cd hardware/libhardware
