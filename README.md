@@ -25,8 +25,8 @@
    # Build
    * repo init -u git://github.com/LineageOS/android.git -b cm-14.1
    * repo sync
-   * git clone https://github.com/SamarV-121/android_device_xiaomi-nikel-lineage-14.1.git -b master device/xiaomi/nikel
-   * git clone https://github.com/SamarV-121/android_vendor_xiaomi-nikel-lineage-14.1.git -b cm-14.1 vendor/xiaomi/nikel
+   * git clone https://github.com/jorgeiba97/android_device_xiaomi-nikel-lineage-14.1.git -b master device/xiaomi/nikel
+   * git clone https://github.com/jorgeiba97/android_vendor_xiaomi-nikel-lineage-14.1.git -b cm-14.1 vendor/xiaomi/nikel
    * cd device/xiaomi/nikel/patches
    * . apply.sh
    * source build/envsetup.sh
