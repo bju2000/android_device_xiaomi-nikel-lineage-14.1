@@ -18,9 +18,6 @@
 | Front Camera            | 5 MP                              |
 | Release Date            | January 2017                      |
 
-# Device Picture
-
-![Redmi Note 4](http://i01.appmifile.com/webfile/globalimg/7/537557F3-A4F1-2490-E9D3-138B2A11DBF6.png "Redmi Note 4")
 
    # Build
    * repo init -u git://github.com/LineageOS/android.git -b cm-14.1
@@ -35,6 +32,8 @@
    * Done :)
    
    # Known Issue:-
+   * Rotation Sensor
+   * RIL is very unustable
    * FP Scanner
    * Camera
    
@@ -43,5 +42,7 @@
    * divis1969
    * xen0n
    * samarV-121
+   * DiedMaster
+   * end222
    * & Me :)
 
